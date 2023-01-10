@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My app</string>
+    <string name="crop_doctor">Crop doctor</string>
+    <string name="nutritions">Nutritions</string>
+    <string name="hii_user">Hii, User</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="take_a_n_picture">Take a\n Picture</string>
+    <string name="see_ndiagnosis">See\nDiagnosis</string>
+    <string name="get_nmedicine">Get\nMedicine</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="fertilizer_ncalculator">Fertilizer\nCalculator</string>
+    <string name="rent_in_nservices">Rent in\nServices</string>
+    <string name="home">Home</string>
+    <string name="community">Community</string>
+    <string name="shop">Shop</string>
+    <string name="profile">Profile</string>
+</resources>
